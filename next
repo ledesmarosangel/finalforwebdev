@@ -1,0 +1,9 @@
+<script>start("/Users/l0v3ly/finalwebdev/.next/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("cache","cache",1,160,"160 B",1734403753,"12/16/24, 10:49:13 PM");</script>
+<script>addRow("server","server",1,448,"448 B",1734662306,"12/19/24, 10:38:26 PM");</script>
+<script>addRow("static","static",1,160,"160 B",1734639490,"12/19/24, 4:18:10 PM");</script>
+<script>addRow("build-manifest.json","build-manifest.json",0,714,"714 B",1734663040,"12/19/24, 10:50:40 PM");</script>
+<script>addRow("package.json","package.json",0,20,"20 B",1734639482,"12/19/24, 4:18:02 PM");</script>
+<script>addRow("react-loadable-manifest.json","react-loadable-manifest.json",0,2,"2 B",1734663040,"12/19/24, 10:50:40 PM");</script>
+<script>addRow("trace","trace",0,694335,"678 kB",1734663041,"12/19/24, 10:50:41 PM");</script>
